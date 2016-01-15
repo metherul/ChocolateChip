@@ -1,5 +1,5 @@
 # Chocolate Chip
-An emulator of the Chip8 system written in C++.
+An emulator of the Chip8 system written in C#.
 
 This is an experimental build of the system. Any testing of the software should be done with this in mind.
 
