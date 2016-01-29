@@ -30,3 +30,8 @@ C:\C# Projects\Chip8\Chip8\bin\Debug\Chip8.pdb
 C:\C# Projects\Chip8\Chip8\obj\x86\Debug\Chip8.exe
 C:\C# Projects\Chip8\Chip8\obj\x86\Debug\Chip8.pdb
 C:\C# Projects\Chip8\Chip8\obj\x86\Debug\Chip8.csprojResolveAssemblyReference.cache
+C:\Github\ChocolateChip\Chip8\Chip8\obj\x86\Debug\Chip8.exe
+C:\Github\ChocolateChip\Chip8\Chip8\obj\x86\Debug\Chip8.pdb
+C:\Github\ChocolateChip\Chip8\Chip8\bin\Debug\Chip8.exe
+C:\Github\ChocolateChip\Chip8\Chip8\bin\Debug\Chip8.pdb
+C:\Github\ChocolateChip\Chip8\Chip8\obj\x86\Debug\Chip8.csprojResolveAssemblyReference.cache

@@ -16,8 +16,10 @@ namespace Chip8
             }
             else
             {
-                Console.WriteLine("-Chocolate Chip8-");
-                Console.WriteLine("An emulator for the 'Chip8' computer system.");
+                Console.WriteLine(" -Chocolate Chip8-");
+                Console.WriteLine(" An emulator for the 'Chip8' computer system.");
+                Console.WriteLine(" Programmed by Ethan Green");
+                Console.WriteLine(" https://github.com/metherul/ChocolateChip");
 
 
                 Emulator em = new Emulator();
